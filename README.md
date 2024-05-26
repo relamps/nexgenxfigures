@@ -25,8 +25,3 @@ NexGenXFigures es una tienda en línea diseñada para ofrecer una experiencia de
 - **JavaScript**: Funcionalidades interactivas (opcional).
 - **GitHub Pages**: Para alojar la página web.
 
-## Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nexgenxfigures.git
